@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "langName": "English",
+  "company": "PT GRID Resistor Indonesia",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "applications": "Applications",
+    "contact": "Contact",
+    "cta": "Request a Quote",
+    "menu": "Menu"
+  },
+  "common": {
+    "soleAgent": "Sole agent of Öz Direnç in Indonesia",
+    "learnMore": "Learn more",
+    "viewAll": "View all products",
+    "contactUs": "Contact us",
+    "applications": "Typical applications",
+    "industries": "Industries served",
+    "gallery": "Gallery",
+    "related": "Other products",
+    "backToProducts": "All products",
+    "headOffice": "Head office — Jakarta",
+    "factory": "Manufacturing facility — Turkey",
+    "phone": "Phone",
+    "mobile": "Mobile",
+    "email": "Email",
+    "quickLinks": "Quick links",
+    "rights": "All rights reserved.",
+    "skip": "Skip to content"
+  },
+  "meta": {
+    "home": { "title": "Industrial Power Resistors", "description": "PT GRID Resistor Indonesia, sole agent of Öz Direnç: neutral grounding resistors, HRGS, loadbanks, motor starting and dynamic braking resistors for power plants and heavy industry." },
+    "about": { "title": "About Us", "description": "Öz Direnç power resistors have served Indonesian power plants, transmission, distribution and industry since 2005. PT GRID Resistor Indonesia has been sole agent since 2017." },
+    "products": { "title": "Products", "description": "Industrial power resistors by Öz Direnç: HRGS, neutral grounding resistors, loadbanks, motor starting resistors, oil-cooled starters and dynamic braking resistors." },
+    "applications": { "title": "Applications & Industries", "description": "Neutral grounding, dynamic braking, loadbank testing and motor starting for power plants, steel, oil & gas, petrochemical, shipyards, aviation and more." },
+    "contact": { "title": "Contact", "description": "Contact PT GRID Resistor Indonesia at The CEO Building, Jl. TB. Simatupang, Jakarta Selatan." },
+    "notFound": { "title": "Page not found", "description": "The page you are looking for does not exist." }
+  },
+  "home": {
+    "eyebrow": "PT GRID Resistor Indonesia",
+    "title": "Industrial power resistors",
+    "lead": "Continually improving our quality management system with the aim of achieving complete customer satisfaction & confidence.",
+    "ctaPrimary": "Explore products",
+    "ctaSecondary": "Contact us",
+    "stats": [
+      { "value": "2005", "label": "First Öz Direnç products in service in Indonesia" },
+      { "value": "2017", "label": "PT GRID Resistor Indonesia appointed sole agent" },
+      { "value": "25+", "label": "Years of Öz Direnç manufacturing experience" },
+      { "value": "ISO", "label": "9001 · 14001 · OHSAS 18001 certified factory" }
+    ],
+    "aboutTitle": "Reliable resistors for Indonesia's power and industry",
+    "aboutText": "For more than 20 years, Öz Direnç products have been in service at Indonesian power plants, transmission and distribution networks, and industries. As sole agent since 2017, PT GRID Resistor Indonesia continues to provide reliable products with on-time delivery.",
+    "productsTitle": "Our products",
+    "productsLead": "Designed and built in Turkey to be tough, durable and reliable — for grounding, testing, starting and braking.",
+    "industriesTitle": "Industry coverage",
+    "industriesLead": "Our resistors protect and control critical equipment across a wide range of sectors.",
+    "clientsTitle": "Trusted by",
+    "ctaTitle": "Need a resistor solution for your project?",
+    "ctaText": "Tell us about your application and our team will help you choose the right product."
+  },
+  "about": {
+    "title": "About us",
+    "lead": "Delivering reliable Öz Direnç power resistors to Indonesia since 2005.",
+    "p1": "Öz Direnç products have been delivered and in operation since 2005. For more than 20 years our products have been in service at Indonesian power plants, transmission and distribution, not to mention industries.",
+    "p2": "Under PT GRID Resistor Indonesia as sole agent since 2017, Öz Direnç keeps providing and delivering reliable products with on-time delivery. It is our commitment to industry to deliver our products and achieve complete customer satisfaction and confidence.",
+    "principalTitle": "Our principal: Öz Direnç",
+    "principalP1": "Öz Direnç has more than 25 years of experience in delivering the highest quality power resistors to its clients worldwide. Since its inception, Öz Direnç has been totally focused on designing and building tough, durable and reliable resistors.",
+    "principalP2": "Öz Direnç has a strong presence through authorized partners in Bulgaria, Indonesia, Iraq, Morocco, Philippines, Thailand, United Kingdom and USA.",
+    "certTitle": "Certified manufacturing",
+    "certText": "The manufacturing facility in Bursa, Turkey is certified to:",
+    "certs": ["ISO 9001", "ISO 14001", "OHSAS 18001"],
+    "facilityCaption": "Öz Direnç manufacturing facility, Bursa, Turkey",
+    "partnersTitle": "Authorized partners worldwide",
+    "partners": ["Bulgaria", "Indonesia", "Iraq", "Morocco", "Philippines", "Thailand", "United Kingdom", "USA"],
+    "clientsTitle": "Our users"
+  },
+  "productsPage": {
+    "title": "Products",
+    "lead": "A complete range of industrial power resistors for grounding, testing, motor starting and braking."
+  },
+  "applicationsPage": {
+    "title": "Applications & industries",
+    "lead": "Where our resistors work — and the industries that rely on them.",
+    "appsTitle": "Applications",
+    "industriesTitle": "Industry coverage"
+  },
+  "contactPage": {
+    "title": "Contact us",
+    "lead": "Get in touch with our team for product information, technical questions or quotations.",
+    "mapLink": "Open in Google Maps"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "Sorry, the page you are looking for does not exist or has been moved.",
+    "back": "Back to home"
+  },
+  "industries": [
+    "Power plants",
+    "Steel industries",
+    "Glass manufacturers",
+    "Oil & gas industries",
+    "Chemical & petrochemical industries",
+    "Shipyards",
+    "Aviation",
+    "Other related industries"
+  ],
+  "applications": [
+    {
+      "title": "Neutral grounding",
+      "text": "The neutral of a transformer or generator is connected to ground through a Neutral Grounding Resistor (NGR) to limit phase-to-ground fault currents in case of a line-to-ground fault.",
+      "product": "neutral-grounding-resistors"
+    },
+    {
+      "title": "Dynamic braking",
+      "text": "Dynamic braking resistors are used for rheostatic braking of electric motors. The excess kinetic energy from braking or slowing down the load is dissipated on the resistors.",
+      "product": "dynamic-braking-resistors"
+    },
+    {
+      "title": "Loadbanks",
+      "text": "Loadbanks load gensets or other power sources so they can be tested to ensure they deliver their rated power in actual loading conditions.",
+      "product": "loadbanks"
+    },
+    {
+      "title": "Motor starting",
+      "text": "Start resistors are used with switch-starters or contactors for starting and speed regulating of AC slipring motors as well as DC motors — where electronic drives are inadequate due to severe operating conditions.",
+      "product": "motor-starting-resistors"
+    }
+  ],
+  "catalog": [
+    { "name": "HRGS", "img": "products/hrgs.jpg", "product": "hrgs" },
+    { "name": "Load banks", "img": "products/loadbank-400v.jpg", "product": "loadbanks" },
+    { "name": "11 kV neutral grounding resistor", "img": "products/ngr-11kv.jpg", "product": "neutral-grounding-resistors" },
+    { "name": "NGR + secondary resistor", "img": "products/ngr-secondary.jpg", "product": "neutral-grounding-resistors" },
+    { "name": "Genset NGR vacuum switches", "img": "products/genset-ngr-vacuum.jpg", "product": "neutral-grounding-resistors" },
+    { "name": "Motor starting resistors", "img": "products/motor-starting.jpg", "product": "motor-starting-resistors" },
+    { "name": "Oil-cooled starter", "img": "products/oil-cooled-starter.jpg", "product": "oil-cooled-starters" },
+    { "name": "Dynamic braking resistor", "img": "products/dynamic-braking.jpg", "product": "dynamic-braking-resistors" }
+  ],
+  "products": {
+    "hrgs": {
+      "name": "HRGS",
+      "full": "High Resistance Grounding Systems",
+      "summary": "Protects the plant's entire electrical grid from catastrophic ground faults.",
+      "img": "products/hrgs.jpg",
+      "intro": [
+        "Öz Direnç HRGS uses resistors to protect the plant's entire electrical grid from catastrophic ground faults.",
+        "The Öz Direnç High Resistance Grounding System (HRGS) is used in continuous-process industrial plants where a sudden electrical shutdown would cause massive financial losses, unsafe conditions, or damaged product.",
+        "It is installed in electrical substations between the neutral point of a transformer (or generator) and the earth ground."
+      ],
+      "listTitle": "Industries served",
+      "list": [
+        "Data centers & server facilities",
+        "Oil, gas & petrochemical refineries",
+        "Semiconductor & microchip manufacturing",
+        "Pulp, paper & textile mills",
+        "Food & beverage processing plants",
+        "Hospital & healthcare critical grids"
+      ],
+      "gallery": [
+        { "img": "products/hrgs.jpg", "caption": "HRGS units, 480 V system" }
+      ]
+    },
+    "loadbanks": {
+      "name": "Loadbanks",
+      "full": "Resistive loadbanks",
+      "summary": "Test gensets, UPS and battery systems at their rated power under real loading conditions.",
+      "img": "products/loadbank-400v.jpg",
+      "intro": [
+        "Loadbanks are resistors for loading gensets or other power sources so that they can be tested to ensure they can deliver their rated power in actual loading conditions."
+      ],
+      "listTitle": "Typical applications",
+      "list": [
+        "Factory testing of diesel gensets",
+        "Periodic exercising of stand-by engine gensets",
+        "UPS system testing",
+        "Battery system testing",
+        "Aviation Ground Power Unit (GPU) testing",
+        "Load optimization in prime power applications",
+        "Remove and prevent carbon build-up on piston heads"
+      ],
+      "gallery": [
+        { "img": "products/loadbank-400v.jpg", "caption": "400 V loadbank, 300 kW" },
+        { "img": "products/loadbank-aviation-gpu.jpg", "caption": "Aviation loadbank — 28 VDC GPU tester" },
+        { "img": "products/loadbank-shipyard.jpg", "caption": "300 kW loadbank at a shipyard" }
+      ]
+    },
+    "motor-starting-resistors": {
+      "name": "Motor starting resistors",
+      "full": "Starting & speed-regulating resistors",
+      "summary": "Rugged start resistors for AC slipring and DC motors in severe operating conditions.",
+      "img": "products/motor-starting.jpg",
+      "intro": [
+        "Our resistor units are widely used in motor control applications where electronic drive systems become inadequate due to severe operating conditions — heavy vibration, very high ambient temperatures, dust and humidity are the prime parameters of design.",
+        "Start resistors are used in conjunction with switch-starters or contactors for starting and speed regulating of AC slipring motors as well as DC motors.",
+        "Contrary to popular belief, starting resistors are still widely used in heavy industries."
+      ],
+      "listTitle": "Industries served",
+      "list": [
+        "Iron and steel mills",
+        "Cement plants",
+        "Mining"
+      ],
+      "gallery": [
+        { "img": "products/motor-starting.jpg", "caption": "Motor starting resistors" }
+      ]
+    },
+    "neutral-grounding-resistors": {
+      "name": "Neutral grounding resistors",
+      "full": "NGR for transformers & generators",
+      "summary": "Limit phase-to-ground fault currents to protect equipment and personnel.",
+      "img": "products/ngr-11kv.jpg",
+      "intro": [
+        "The neutral of the transformer or generator is connected to ground through a Neutral Grounding Resistor (NGR) to limit phase-to-ground fault currents.",
+        "Resistance grounding may be either of two classes, high resistance or low resistance, distinguished by the magnitude of ground-fault current permitted to flow."
+      ],
+      "reasonsTitle": "Why limit the fault current",
+      "reasons": [
+        "To reduce burning and melting effects in faulted electric equipment, such as switchgear, transformers, cables and machines.",
+        "To reduce mechanical stresses in circuits and apparatus.",
+        "To reduce electric-shock hazards to personnel.",
+        "To reduce the arc blast or flash hazard to personnel.",
+        "To reduce momentary line-voltage dips.",
+        "To secure control of transient overvoltages."
+      ],
+      "listTitle": "Industries served",
+      "list": [
+        "Power generation & utilities",
+        "Renewable energy plants",
+        "Mining, quarrying & mineral processing",
+        "Marine vessels & offshore oil rigs",
+        "Oil, gas and petrochemical refineries",
+        "Heavy manufacturing & process industries"
+      ],
+      "gallery": [
+        { "img": "products/ngr-11kv.jpg", "caption": "11 kV neutral grounding resistor" },
+        { "img": "products/ngr-generator-11kv.jpg", "caption": "11 kV generator NGR" },
+        { "img": "products/ngr-secondary.jpg", "caption": "NGR + secondary resistor" },
+        { "img": "products/genset-ngr-vacuum.jpg", "caption": "Genset NGR vacuum switches" }
+      ]
+    },
+    "oil-cooled-starters": {
+      "name": "Oil-cooled starters",
+      "full": "Oil-immersed & air-cooled starters",
+      "summary": "Safely start large electric motors in harsh environments and under heavy starting loads.",
+      "img": "products/oil-cooled-starter.jpg",
+      "intro": [
+        "Oil-cooled starters (also called oil-immersed starters) are used in heavy industries, mining and agriculture to safely start massive electric motors that pull immense electrical current.",
+        "They are specifically chosen for harsh environments, heavy starting loads, or areas prone to severe voltage fluctuations."
+      ],
+      "listTitle": "Typical applications",
+      "list": [
+        "Heavy industrial conveyors & material handling",
+        "Mining & cement plants",
+        "Industrial pumps & fluid handling",
+        "Agriculture & remote farming irrigation",
+        "Large compressors & fans"
+      ],
+      "gallery": [
+        { "img": "products/oil-cooled-starter.jpg", "caption": "Oil-cooled starter, 800 kW" },
+        { "img": "products/air-cooled-starter.jpg", "caption": "Automatic air-cooled starter" }
+      ]
+    },
+    "dynamic-braking-resistors": {
+      "name": "Dynamic braking resistors",
+      "full": "DBR for electric motors",
+      "summary": "Dissipate the kinetic energy of braking loads in cranes, centrifuges and similar machines.",
+      "img": "products/dynamic-braking.jpg",
+      "intro": [
+        "Dynamic braking resistors are used for rheostatic braking of electric motors. The excess kinetic energy resulting from braking or slowing down the load is dissipated on electrical resistors.",
+        "We design powerful braking resistors for centrifuges, cranes and similar applications where DBRs are required."
+      ],
+      "listTitle": "Typical applications",
+      "list": [
+        "Cranes",
+        "Centrifuges",
+        "Other applications where DBRs are required"
+      ],
+      "gallery": [
+        { "img": "products/dynamic-braking.jpg", "caption": "80 kW dynamic braking resistor" }
+      ]
+    }
+  },
+  "contact": {
+    "office": "The CEO Building, Level 12\nJl. TB. Simatupang No. 18C\nJakarta Selatan 12430\nIndonesia",
+    "phone": "+62 21 5091 9498",
+    "mobile": "0852 1189 2728",
+    "email": "info@gridresistorindonesia.com",
+    "factoryName": "Öz Direnç Sanayi ve Ticaret Ltd. Şti.",
+    "factory": "Organize Sanayi Bölgesi, Lacivert Cadde No: 3\n16140 Bursa\nTurkey",
+    "factoryPhone": "+90 224 242 91 33",
+    "factoryEmail": "mail@ozdirenc.com"
+  }
+}

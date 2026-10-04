@@ -1,0 +1,295 @@
+{
+  "lang": "id",
+  "langName": "Bahasa Indonesia",
+  "company": "PT GRID Resistor Indonesia",
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "products": "Produk",
+    "applications": "Aplikasi",
+    "contact": "Kontak",
+    "cta": "Minta Penawaran",
+    "menu": "Menu"
+  },
+  "common": {
+    "soleAgent": "Agen tunggal Öz Direnç di Indonesia",
+    "learnMore": "Selengkapnya",
+    "viewAll": "Lihat semua produk",
+    "contactUs": "Hubungi kami",
+    "applications": "Aplikasi umum",
+    "industries": "Industri yang dilayani",
+    "gallery": "Galeri",
+    "related": "Produk lainnya",
+    "backToProducts": "Semua produk",
+    "headOffice": "Kantor pusat — Jakarta",
+    "factory": "Fasilitas produksi — Turki",
+    "phone": "Telepon",
+    "mobile": "Ponsel",
+    "email": "Email",
+    "quickLinks": "Tautan",
+    "rights": "Hak cipta dilindungi.",
+    "skip": "Langsung ke konten"
+  },
+  "meta": {
+    "home": { "title": "Resistor Daya Industri", "description": "PT GRID Resistor Indonesia, agen tunggal Öz Direnç: neutral grounding resistor, HRGS, loadbank, resistor starting motor dan dynamic braking untuk pembangkit listrik dan industri berat." },
+    "about": { "title": "Tentang Kami", "description": "Resistor daya Öz Direnç telah melayani pembangkit, transmisi, distribusi dan industri di Indonesia sejak 2005. PT GRID Resistor Indonesia menjadi agen tunggal sejak 2017." },
+    "products": { "title": "Produk", "description": "Resistor daya industri Öz Direnç: HRGS, neutral grounding resistor, loadbank, resistor starting motor, oil-cooled starter dan dynamic braking resistor." },
+    "applications": { "title": "Aplikasi & Industri", "description": "Neutral grounding, dynamic braking, pengujian loadbank dan starting motor untuk pembangkit listrik, baja, migas, petrokimia, galangan kapal, penerbangan dan lainnya." },
+    "contact": { "title": "Kontak", "description": "Hubungi PT GRID Resistor Indonesia di The CEO Building, Jl. TB. Simatupang, Jakarta Selatan." },
+    "notFound": { "title": "Halaman tidak ditemukan", "description": "Halaman yang Anda cari tidak tersedia." }
+  },
+  "home": {
+    "eyebrow": "PT GRID Resistor Indonesia",
+    "title": "Resistor daya industri",
+    "lead": "Terus meningkatkan sistem manajemen mutu kami dengan tujuan mencapai kepuasan dan kepercayaan pelanggan sepenuhnya.",
+    "ctaPrimary": "Lihat produk",
+    "ctaSecondary": "Hubungi kami",
+    "stats": [
+      { "value": "2005", "label": "Produk Öz Direnç pertama beroperasi di Indonesia" },
+      { "value": "2017", "label": "PT GRID Resistor Indonesia ditunjuk sebagai agen tunggal" },
+      { "value": "25+", "label": "Tahun pengalaman manufaktur Öz Direnç" },
+      { "value": "ISO", "label": "Pabrik tersertifikasi 9001 · 14001 · OHSAS 18001" }
+    ],
+    "aboutTitle": "Resistor andal untuk energi dan industri Indonesia",
+    "aboutText": "Lebih dari 20 tahun, produk Öz Direnç telah beroperasi di pembangkit listrik, jaringan transmisi dan distribusi, serta berbagai industri di Indonesia. Sebagai agen tunggal sejak 2017, PT GRID Resistor Indonesia terus menyediakan produk yang andal dengan pengiriman tepat waktu.",
+    "productsTitle": "Produk kami",
+    "productsLead": "Dirancang dan dibuat di Turki agar tangguh, tahan lama dan andal — untuk grounding, pengujian, starting dan braking.",
+    "industriesTitle": "Cakupan industri",
+    "industriesLead": "Resistor kami melindungi dan mengendalikan peralatan penting di berbagai sektor.",
+    "clientsTitle": "Dipercaya oleh",
+    "ctaTitle": "Butuh solusi resistor untuk proyek Anda?",
+    "ctaText": "Ceritakan kebutuhan aplikasi Anda dan tim kami akan membantu memilih produk yang tepat."
+  },
+  "about": {
+    "title": "Tentang kami",
+    "lead": "Menghadirkan resistor daya Öz Direnç yang andal ke Indonesia sejak 2005.",
+    "p1": "Produk Öz Direnç telah dikirim dan beroperasi sejak 2005. Lebih dari 20 tahun produk kami melayani pembangkit listrik, transmisi dan distribusi di Indonesia, serta berbagai industri.",
+    "p2": "Bersama PT GRID Resistor Indonesia sebagai agen tunggal sejak 2017, Öz Direnç terus menyediakan dan mengirimkan produk yang andal dengan waktu pengiriman yang tepat. Komitmen kami kepada industri adalah mengirimkan produk serta mencapai kepuasan dan kepercayaan pelanggan sepenuhnya.",
+    "principalTitle": "Prinsipal kami: Öz Direnç",
+    "principalP1": "Öz Direnç memiliki pengalaman lebih dari 25 tahun dalam menghadirkan resistor daya berkualitas tinggi kepada klien di seluruh dunia. Sejak awal berdiri, Öz Direnç sepenuhnya berfokus merancang dan membuat resistor yang tangguh, tahan lama dan andal.",
+    "principalP2": "Öz Direnç memiliki kehadiran yang kuat melalui mitra resmi di Bulgaria, Indonesia, Irak, Maroko, Filipina, Thailand, Inggris dan Amerika Serikat.",
+    "certTitle": "Manufaktur tersertifikasi",
+    "certText": "Fasilitas produksi di Bursa, Turki tersertifikasi:",
+    "certs": ["ISO 9001", "ISO 14001", "OHSAS 18001"],
+    "facilityCaption": "Fasilitas produksi Öz Direnç, Bursa, Turki",
+    "partnersTitle": "Mitra resmi di seluruh dunia",
+    "partners": ["Bulgaria", "Indonesia", "Irak", "Maroko", "Filipina", "Thailand", "Inggris", "Amerika Serikat"],
+    "clientsTitle": "Pengguna kami"
+  },
+  "productsPage": {
+    "title": "Produk",
+    "lead": "Rangkaian lengkap resistor daya industri untuk grounding, pengujian, starting motor dan braking."
+  },
+  "applicationsPage": {
+    "title": "Aplikasi & industri",
+    "lead": "Di mana resistor kami bekerja — dan industri yang mengandalkannya.",
+    "appsTitle": "Aplikasi",
+    "industriesTitle": "Cakupan industri"
+  },
+  "contactPage": {
+    "title": "Hubungi kami",
+    "lead": "Hubungi tim kami untuk informasi produk, pertanyaan teknis atau permintaan penawaran.",
+    "mapLink": "Buka di Google Maps"
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "text": "Maaf, halaman yang Anda cari tidak tersedia atau telah dipindahkan.",
+    "back": "Kembali ke beranda"
+  },
+  "industries": [
+    "Pembangkit listrik",
+    "Industri baja",
+    "Produsen kaca",
+    "Industri minyak & gas",
+    "Industri kimia & petrokimia",
+    "Galangan kapal",
+    "Penerbangan",
+    "Industri terkait lainnya"
+  ],
+  "applications": [
+    {
+      "title": "Neutral grounding",
+      "text": "Titik netral transformator atau generator dihubungkan ke tanah melalui Neutral Grounding Resistor (NGR) untuk membatasi arus gangguan fasa-ke-tanah saat terjadi gangguan line-to-ground.",
+      "product": "neutral-grounding-resistors"
+    },
+    {
+      "title": "Dynamic braking",
+      "text": "Dynamic braking resistor digunakan untuk pengereman reostatik motor listrik. Kelebihan energi kinetik saat pengereman atau perlambatan beban didisipasikan pada resistor.",
+      "product": "dynamic-braking-resistors"
+    },
+    {
+      "title": "Loadbank",
+      "text": "Loadbank memberi beban pada genset atau sumber daya lain sehingga dapat diuji untuk memastikan mampu menghasilkan daya nominalnya dalam kondisi pembebanan sebenarnya.",
+      "product": "loadbanks"
+    },
+    {
+      "title": "Starting motor",
+      "text": "Resistor starting digunakan bersama switch-starter atau kontaktor untuk starting dan pengaturan kecepatan motor AC slipring maupun motor DC — ketika penggerak elektronik tidak memadai karena kondisi operasi yang berat.",
+      "product": "motor-starting-resistors"
+    }
+  ],
+  "catalog": [
+    { "name": "HRGS", "img": "products/hrgs.jpg", "product": "hrgs" },
+    { "name": "Loadbank", "img": "products/loadbank-400v.jpg", "product": "loadbanks" },
+    { "name": "Neutral grounding resistor 11 kV", "img": "products/ngr-11kv.jpg", "product": "neutral-grounding-resistors" },
+    { "name": "NGR + secondary resistor", "img": "products/ngr-secondary.jpg", "product": "neutral-grounding-resistors" },
+    { "name": "Vacuum switch NGR genset", "img": "products/genset-ngr-vacuum.jpg", "product": "neutral-grounding-resistors" },
+    { "name": "Resistor starting motor", "img": "products/motor-starting.jpg", "product": "motor-starting-resistors" },
+    { "name": "Oil-cooled starter", "img": "products/oil-cooled-starter.jpg", "product": "oil-cooled-starters" },
+    { "name": "Dynamic braking resistor", "img": "products/dynamic-braking.jpg", "product": "dynamic-braking-resistors" }
+  ],
+  "products": {
+    "hrgs": {
+      "name": "HRGS",
+      "full": "High Resistance Grounding Systems",
+      "summary": "Melindungi seluruh jaringan listrik pabrik dari gangguan tanah yang fatal.",
+      "img": "products/hrgs.jpg",
+      "intro": [
+        "HRGS Öz Direnç menggunakan resistor untuk melindungi seluruh jaringan listrik pabrik dari gangguan tanah (ground fault) yang fatal.",
+        "High Resistance Grounding System (HRGS) Öz Direnç digunakan pada pabrik dengan proses kontinu, di mana pemadaman listrik mendadak dapat menyebabkan kerugian finansial besar, kondisi tidak aman, atau produk rusak.",
+        "Sistem ini dipasang di gardu listrik, di antara titik netral transformator (atau generator) dan tanah."
+      ],
+      "listTitle": "Industri yang dilayani",
+      "list": [
+        "Data center & fasilitas server",
+        "Kilang minyak, gas & petrokimia",
+        "Manufaktur semikonduktor & microchip",
+        "Pabrik pulp, kertas & tekstil",
+        "Pabrik pengolahan makanan & minuman",
+        "Jaringan kritis rumah sakit & layanan kesehatan"
+      ],
+      "gallery": [
+        { "img": "products/hrgs.jpg", "caption": "Unit HRGS, sistem 480 V" }
+      ]
+    },
+    "loadbanks": {
+      "name": "Loadbank",
+      "full": "Loadbank resistif",
+      "summary": "Menguji genset, UPS dan sistem baterai pada daya nominal dalam kondisi beban sebenarnya.",
+      "img": "products/loadbank-400v.jpg",
+      "intro": [
+        "Loadbank adalah resistor untuk membebani genset atau sumber daya lain sehingga dapat diuji untuk memastikan mampu menghasilkan daya nominalnya dalam kondisi pembebanan sebenarnya."
+      ],
+      "listTitle": "Aplikasi umum",
+      "list": [
+        "Pengujian pabrik untuk genset diesel",
+        "Pemanasan berkala genset siaga (stand-by)",
+        "Pengujian sistem UPS",
+        "Pengujian sistem baterai",
+        "Pengujian Ground Power Unit (GPU) penerbangan",
+        "Optimasi beban pada aplikasi prime power",
+        "Menghilangkan dan mencegah penumpukan karbon pada kepala piston"
+      ],
+      "gallery": [
+        { "img": "products/loadbank-400v.jpg", "caption": "Loadbank 400 V, 300 kW" },
+        { "img": "products/loadbank-aviation-gpu.jpg", "caption": "Loadbank penerbangan — GPU tester 28 VDC" },
+        { "img": "products/loadbank-shipyard.jpg", "caption": "Loadbank 300 kW di galangan kapal" }
+      ]
+    },
+    "motor-starting-resistors": {
+      "name": "Resistor starting motor",
+      "full": "Resistor starting & pengatur kecepatan",
+      "summary": "Resistor starting yang tangguh untuk motor AC slipring dan DC dalam kondisi operasi berat.",
+      "img": "products/motor-starting.jpg",
+      "intro": [
+        "Unit resistor kami banyak digunakan pada aplikasi kontrol motor ketika sistem penggerak elektronik tidak memadai karena kondisi operasi yang berat — getaran tinggi, suhu lingkungan sangat tinggi, debu dan kelembapan menjadi parameter utama desain.",
+        "Resistor starting digunakan bersama switch-starter atau kontaktor untuk starting dan pengaturan kecepatan motor AC slipring maupun motor DC.",
+        "Berbeda dari anggapan umum, resistor starting masih banyak digunakan di industri berat."
+      ],
+      "listTitle": "Industri yang dilayani",
+      "list": [
+        "Pabrik besi dan baja",
+        "Pabrik semen",
+        "Pertambangan"
+      ],
+      "gallery": [
+        { "img": "products/motor-starting.jpg", "caption": "Resistor starting motor" }
+      ]
+    },
+    "neutral-grounding-resistors": {
+      "name": "Neutral grounding resistor",
+      "full": "NGR untuk transformator & generator",
+      "summary": "Membatasi arus gangguan fasa-ke-tanah untuk melindungi peralatan dan personel.",
+      "img": "products/ngr-11kv.jpg",
+      "intro": [
+        "Titik netral transformator atau generator dihubungkan ke tanah melalui Neutral Grounding Resistor (NGR) untuk membatasi arus gangguan fasa-ke-tanah.",
+        "Grounding resistansi terbagi menjadi dua kelas, resistansi tinggi atau resistansi rendah, yang dibedakan berdasarkan besarnya arus gangguan tanah yang diizinkan mengalir."
+      ],
+      "reasonsTitle": "Mengapa arus gangguan perlu dibatasi",
+      "reasons": [
+        "Mengurangi efek terbakar dan meleleh pada peralatan listrik yang mengalami gangguan, seperti switchgear, transformator, kabel dan mesin.",
+        "Mengurangi tegangan mekanis pada rangkaian dan peralatan.",
+        "Mengurangi bahaya sengatan listrik bagi personel.",
+        "Mengurangi bahaya ledakan busur (arc blast/flash) bagi personel.",
+        "Mengurangi penurunan tegangan sesaat pada jaringan.",
+        "Menjamin kendali atas tegangan lebih transien."
+      ],
+      "listTitle": "Industri yang dilayani",
+      "list": [
+        "Pembangkit listrik & utilitas",
+        "Pembangkit energi terbarukan",
+        "Pertambangan, penggalian & pengolahan mineral",
+        "Kapal laut & anjungan minyak lepas pantai",
+        "Kilang minyak, gas dan petrokimia",
+        "Manufaktur berat & industri proses"
+      ],
+      "gallery": [
+        { "img": "products/ngr-11kv.jpg", "caption": "Neutral grounding resistor 11 kV" },
+        { "img": "products/ngr-generator-11kv.jpg", "caption": "NGR generator 11 kV" },
+        { "img": "products/ngr-secondary.jpg", "caption": "NGR + secondary resistor" },
+        { "img": "products/genset-ngr-vacuum.jpg", "caption": "Vacuum switch NGR genset" }
+      ]
+    },
+    "oil-cooled-starters": {
+      "name": "Oil-cooled starter",
+      "full": "Starter berpendingin oli & udara",
+      "summary": "Menyalakan motor listrik besar secara aman di lingkungan berat dan beban starting tinggi.",
+      "img": "products/oil-cooled-starter.jpg",
+      "intro": [
+        "Oil-cooled starter (disebut juga oil-immersed starter) digunakan di industri berat, pertambangan dan pertanian untuk menyalakan motor listrik berukuran besar yang menarik arus listrik sangat tinggi secara aman.",
+        "Starter ini dipilih khusus untuk lingkungan yang keras, beban starting berat, atau area yang rawan fluktuasi tegangan tinggi."
+      ],
+      "listTitle": "Aplikasi umum",
+      "list": [
+        "Konveyor industri berat & material handling",
+        "Pertambangan & pabrik semen",
+        "Pompa industri & penanganan fluida",
+        "Pertanian & irigasi di daerah terpencil",
+        "Kompresor & kipas berukuran besar"
+      ],
+      "gallery": [
+        { "img": "products/oil-cooled-starter.jpg", "caption": "Oil-cooled starter 800 kW" },
+        { "img": "products/air-cooled-starter.jpg", "caption": "Starter otomatis berpendingin udara" }
+      ]
+    },
+    "dynamic-braking-resistors": {
+      "name": "Dynamic braking resistor",
+      "full": "DBR untuk motor listrik",
+      "summary": "Mendisipasikan energi kinetik beban saat pengereman pada crane, centrifuge dan mesin sejenis.",
+      "img": "products/dynamic-braking.jpg",
+      "intro": [
+        "Dynamic braking resistor digunakan untuk pengereman reostatik motor listrik. Kelebihan energi kinetik akibat pengereman atau perlambatan beban didisipasikan pada resistor listrik.",
+        "Kami merancang resistor pengereman berdaya tinggi untuk centrifuge, crane dan aplikasi sejenis yang membutuhkan DBR."
+      ],
+      "listTitle": "Aplikasi umum",
+      "list": [
+        "Crane",
+        "Centrifuge",
+        "Aplikasi lain yang membutuhkan DBR"
+      ],
+      "gallery": [
+        { "img": "products/dynamic-braking.jpg", "caption": "Dynamic braking resistor 80 kW" }
+      ]
+    }
+  },
+  "contact": {
+    "office": "The CEO Building, Lantai 12\nJl. TB. Simatupang No. 18C\nJakarta Selatan 12430\nIndonesia",
+    "phone": "+62 21 5091 9498",
+    "mobile": "0852 1189 2728",
+    "email": "info@gridresistorindonesia.com",
+    "factoryName": "Öz Direnç Sanayi ve Ticaret Ltd. Şti.",
+    "factory": "Organize Sanayi Bölgesi, Lacivert Cadde No: 3\n16140 Bursa\nTurki",
+    "factoryPhone": "+90 224 242 91 33",
+    "factoryEmail": "mail@ozdirenc.com"
+  }
+}
