@@ -43,10 +43,10 @@ const industryIcons = [
 ];
 
 const clients = [
-  { img: 'clients/pln.jpg', name: 'PLN' },
-  { img: 'clients/skkmigas-petrochina.jpg', name: 'SKK Migas & PetroChina' },
-  { img: 'clients/pupuk-iskandar-muda.jpg', name: 'Pupuk Iskandar Muda' },
-  { img: 'clients/cakra-steel.jpg', name: 'Cakra Steel' },
+  { img: 'clients/pln.png', name: 'PLN' },
+  { img: 'clients/skkmigas-petrochina.png', name: 'SKK Migas & PetroChina' },
+  { img: 'clients/pim.png', name: 'Pupuk Iskandar Muda' },
+  { img: 'clients/cakrasteel.jpg', name: 'Cakra Steel' },
   { img: 'clients/mulia-group.jpg', name: 'Mulia Group' },
 ];
 

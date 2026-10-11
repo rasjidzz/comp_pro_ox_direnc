@@ -56,17 +56,6 @@ const clientsStrip = (c, title) => `
   </div>
 </section>`;
 
-const ctaBand = (c) => `
-<section class="cta-band">
-  <div class="container cta-inner">
-    <div>
-      <h2>${esc(c.t.home.ctaTitle)}</h2>
-      <p>${esc(c.t.home.ctaText)}</p>
-    </div>
-    <a class="btn btn-primary btn-lg" href="${c.link('contact')}">${esc(c.t.nav.cta)} ${icons.arrow}</a>
-  </div>
-</section>`;
-
 const checkList = (items) =>
   `<ul class="check-list">${items.map((i) => `<li>${icons.check}<span>${esc(i)}</span></li>`).join('')}</ul>`;
 
@@ -130,8 +119,7 @@ const home = (c) => {
   </div>
 </section>
 
-${clientsStrip(c, h.clientsTitle)}
-${ctaBand(c)}`;
+${clientsStrip(c, h.clientsTitle)}`;
 };
 
 const about = (c) => {
@@ -175,8 +163,7 @@ ${pageHeader(a.title, a.lead)}
   </div>
 </section>
 
-${clientsStrip(c, a.clientsTitle)}
-${ctaBand(c)}`;
+${clientsStrip(c, a.clientsTitle)}`;
 };
 
 const products = (c) => {
@@ -203,8 +190,7 @@ ${pageHeader(p.title, p.lead)}
         .join('')}
     </div>
   </div>
-</section>
-${ctaBand(c)}`;
+</section>`;
 };
 
 const product = (slug) => (c) => {
@@ -270,8 +256,7 @@ const product = (slug) => (c) => {
     </div>
     <div class="card-grid">${related.map((s) => productCard(c, s)).join('')}</div>
   </div>
-</section>
-${ctaBand(c)}`;
+</section>`;
 };
 
 const applications = (c) => {
@@ -309,8 +294,7 @@ ${pageHeader(a.title, a.lead)}
     </div>
     ${industriesGrid(c)}
   </div>
-</section>
-${ctaBand(c)}`;
+</section>`;
 };
 
 const contact = (c) => {
@@ -325,8 +309,9 @@ ${pageHeader(p.title, p.lead)}
       <h2>${esc(c.t.common.headOffice)}</h2>
       <p class="contact-company">${esc(c.t.company)}</p>
       <p class="contact-line">${icons.pin}<span>${lines(k.office)}</span></p>
-      <p class="contact-line">${icons.phone}<span><small>${esc(c.t.common.phone)}</small><a href="${telHref(k.phone)}">${esc(k.phone)}</a></span></p>
-      <p class="contact-line">${icons.mobile}<span><small>${esc(c.t.common.mobile)}</small><a href="${telHref(k.mobile)}">${esc(k.mobile)}</a></span></p>
+      <p class="contact-line">${icons.phone}<span><small>Power Grid</small><a href="tel:085211892728">Riri (0852 1189 2728)</a></span></p>
+      <p class="contact-line">${icons.phone}<span><small>Industry</small><a href="tel:087782300200">Winarto (0877 82 300 200)</a></span></p>
+      <p class="contact-line">${icons.phone}<span><small>Support</small><a href="tel:085777559599">Nyoman (0857 7755 9599)</a></span></p>
       <p class="contact-line">${icons.mail}<span><small>${esc(c.t.common.email)}</small><a href="mailto:${k.email}">${esc(k.email)}</a></span></p>
       <div class="contact-actions">
         <a class="btn btn-primary" href="mailto:${k.email}">${icons.mail} ${esc(k.email)}</a>
