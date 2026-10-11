@@ -27,7 +27,6 @@ ${alternates.map((a) => `<link rel="alternate" hreflang="${a.lang}" href="${a.hr
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:locale" content="${lang === 'id' ? 'id_ID' : 'en_US'}">
 <meta name="theme-color" content="#0b1d33">
-<link rel="icon" href="${root}assets/img/grid_res_indo.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -39,7 +38,6 @@ ${alternates.map((a) => `<link rel="alternate" hreflang="${a.lang}" href="${a.hr
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="${link('home')}" aria-label="${esc(t.company)} — ${esc(t.nav.home)}">
-      <img class="brand-logo" src="${root}assets/img/grid_res_indo.svg" alt="" width="37" height="43">
       <span class="brand-text"><strong>GRID</strong> Resistor <span>Indonesia</span></span>
     </a>
     <nav class="main-nav" id="main-nav" aria-label="Main">
@@ -62,7 +60,6 @@ ${body}
   <div class="container footer-grid">
     <div>
       <a class="brand brand-light" href="${link('home')}">
-        <img class="brand-logo" src="${root}assets/img/grid_res_indo.svg" alt="" width="37" height="43" loading="lazy">
         <span class="brand-text"><strong>GRID</strong> Resistor <span>Indonesia</span></span>
       </a>
       <p class="footer-tag">${esc(t.common.soleAgent)}</p>
