@@ -425,3 +425,10 @@ a:hover .link-arrow .icon, .link-arrow:hover .icon { transform: translateX(4px);
     gap: 8px;
   }
 }
+
+.section-dark .chips li {
+  color: #222222;
+}
+.section-dark .chips li.chip-active {
+  color: #fff !important;
+}

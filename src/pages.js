@@ -156,7 +156,7 @@ ${pageHeader(a.title, a.lead)}
   </div>
 </section>
 
-<section class="section">
+<section class="section section-dark">
   <div class="container">
     <h2 class="section-title center">${esc(a.partnersTitle)}</h2>
     <ul class="chips">${a.partners.map((p) => `<li${p === 'Indonesia' ? ' class="chip-active"' : ''}>${esc(p)}</li>`).join('')}</ul>
